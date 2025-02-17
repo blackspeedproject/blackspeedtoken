@@ -4,4 +4,21 @@ BlackSpeed Token is a cryptocurrency inspired by the kindness, generosity, and h
 This token was created to celebrate the positive energy and fun spirit brought by IShowSpeed through his entertaining interactions. 
 With a philosophy of sharing and giving, BlackSpeed aims to be a symbol of a community that cares for one another, spreading fun and joy within the crypto world.
 
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⡀⠤⠤⠄⢀⡀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⣀⠔⠈⠄⠀⠀⠀⠀⠀⠀⠑⢄⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⡐⠁⢠⢰⣊⣄⣤⣄⣀⠀⠀⠀⠀⠑⡀⠀⠀⠀
+⠀⠀⠀⠀⢀⠰⠐⠂⠉⠉⠉⣀⠉⠉⠛⠛⠶⣄⠀⠀⢱⠀⠀⠀
+⠀⠀⡠⢐⠕⠁⠀⣠⣶⢿⡟⠘⣿⣿⣶⣤⡀⠈⠙⢄⢸⠀⠀⠀
+⠀⠌⠀⠀⠀⢠⣾⣿⠏⢸⠇⠀⠘⣿⠹⣿⣿⣖⢄⢀⠑⠄⠀⠀
+⠸⠀⢀⡘⡀⣿⣿⢿⢀⠈⠄⠈⠀⠇⣀⢽⣿⣿⣧⠡⠀⠈⢂⠀
+⠀⠣⠈⣌⡰⢻⣿⠸⢎⡉⠣⠀⠈⠐⢡⡈⠸⣿⣿⡆⠰⠀⠀⡆
+⠀⠀⠉⠢⣐⠁⢿⡆⠢⠥⠂⡃⠀⠐⠠⠔⠁⣿⢭⡟⠺⠀⢀⠇
+⠀⠀⠀⠀⠀⠉⠊⢿⠀⢂⠤⡤⠀⠰⡀⠠⡰⠾⣋⣈⠶⠐⠊⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠑⠤⢀⡀⢁⣀⠬⠊⠉⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⡄⠀⠀⢀⡀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⢀⣤⣾⣧⢀⠀⡀⣨⣿⣶⡄⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠠⠁⣿⣿⣿⣧⠀⣰⣿⣿⣿⡇⡑⡀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⡇⠀⣿⣿⣿⣿⣿⣿⣿⣿⣿⡇⠀⢡⠀⠀⠀⠀
+
+
 <h1>Thank you</h1>
