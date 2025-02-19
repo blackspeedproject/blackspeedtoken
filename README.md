@@ -2,10 +2,11 @@
 Slogan: Siuuuuuu!!!
 
 <h3>Introduction</h3>
-<p>Black Speed Token (BSP) is a cryptocurrency token created to serve the community of IShowSpeed fans within the world of crypto. The main goal of this token is to connect IShowSpeed fans from various countries in a decentralized and secure ecosystem. Black Speed Token provides a platform for the community to interact, share, and participate in various activities within the cryptocurrency space.</p><br>
 <p>Black Speed Token is a cryptocurrency inspired by the kindness, generosity, and humor of the internet icon, IShowSpeed. 
 This token was created to celebrate the positive energy and fun spirit brought by IShowSpeed through his entertaining interactions. 
 With a philosophy of sharing and giving, BlackSpeed aims to be a symbol of a community that cares for one another, spreading fun and joy within the crypto world.</p>
+
+<p>Black Speed Token (BSP) is a cryptocurrency token created to serve the community of IShowSpeed fans within the world of crypto. The main goal of this token is to connect IShowSpeed fans from various countries in a decentralized and secure ecosystem. Black Speed Token provides a platform for the community to interact, share, and participate in various activities within the cryptocurrency space.</p><br>
 
 <h3>Token Information</h3>
 Token Name: Black Speed Token<br>
