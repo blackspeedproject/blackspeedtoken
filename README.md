@@ -39,6 +39,6 @@ Black Speed Token is a legitimate project, launched as a way to support the ISho
 Contact and Additional Information<br>
 Website: https://blackspeedtoken.webby.fun<br>
 Twitter: https://x.com/blackspeedtoken<br>
-Telegram: https://t.me/blackspeedtoken
+Telegram: https://t.me/blackspeedtoken<br>
 GitHub: https://github.com/blackspeedproject<br>
 Email: blackspeedtoken@gmail.com<br>
