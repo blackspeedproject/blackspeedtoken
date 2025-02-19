@@ -11,11 +11,11 @@ With a philosophy of sharing and giving, BlackSpeed aims to be a symbol of a com
 <h3>Token Information</h3>
 Token Name: Black Speed Token<br>
 Symbol: $BSP<br>
-Total Supply: 1 Billion<br>
+Total Supply: 1 Billion<br><br>
 Allocation:<br>
 10% for developers<br>
 70% for the community<br>
-20% for marketing<br>
+20% for marketing<br><br>
 Token Use:<br>
 Payment within the community<br>
 NFT exchanges<br>
